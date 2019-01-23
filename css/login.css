@@ -1,0 +1,202 @@
+
+/** LOGIN TABS**/
+.tabs .tab a {
+    color: #7a7a7a !important;
+    border-bottom: none !important;
+}
+
+#tabs-login .indicator {
+    background-color: #fff !important;
+    height: 55px;
+    z-index: -1;
+}
+
+#tabs-login {
+    width: 100%;;
+    float: left;
+    bottom: 48px;
+    background: transparent !important;
+}
+
+#tabs-login .material-icons {
+    font-size: 45px !important;
+}
+
+#tab1, #tab2 {
+    z-index: 2;
+    background: transparent !important;
+}
+
+.page-login {
+    width: 480px;
+    position: relative;
+    top: 105px;
+    background: white;
+}
+
+#login-content {
+    width: 400px;
+    margin-top: 70px;
+}
+
+div#test1, #test2 {
+    padding-top: 25px;
+    background-color: #fff;
+    position: relative;
+}
+
+input.form-control {
+    position: relative;
+    top: 10px;
+}
+
+.input-field.col.s12.login1 {
+    position: relative;
+    top: -20px;
+}
+
+.input-field.col.s12.login1, .input-field.col.s12.login2 {
+    margin-top: 15px;
+}
+
+.form-group label.control-label {
+    top: 1.5rem !important;
+}
+
+#login-content h5 {
+    position: absolute;
+    left: 40px;
+    top: 10px;
+}
+
+form.login-form {
+    border-bottom: none !important;
+}
+
+#btn-login {
+    height: 45px;
+    font-size: 1.3rem;
+    line-height: 45px;
+    text-transform: capitalize;
+    background-color: #b5b5b5 !important;
+}
+
+#register {
+    position: absolute;
+    left: 145px;
+}
+
+#register a {
+    box-shadow: none;
+    color: #fff;
+}
+
+#register p {
+    font-size: 1.2rem;
+    color: #fff;
+}
+
+/**Modal**/
+.modal {
+    max-height: 90% !important;
+    width: 450px !important;
+}
+
+.modal-content h4 {
+    width: 100%;
+    margin: 0px !important;
+    text-indent: 18px;
+    text-align: left;
+    font-size: 1.8rem;
+    padding-bottom: 40px;
+    padding-top: 25px;
+}
+
+.modal .modal-content {
+    height: 400px;
+    padding: 10px !important;
+}
+
+.modal .modal-content .form-group {
+    top: 30px;
+}
+
+.modal .modal-content .form {
+    width: 95%;
+}
+
+.modal .modal-footer {
+    position: relative;
+    top: -12px;
+    float: none;
+    width: 50%;
+    margin: auto;
+}
+
+a.modal-trigger {
+    position: relative;
+    top: 2px;
+    left: 0px;
+}
+
+span.margin.right-align.medium-small {
+    position: relative;
+    float: right;
+    top: -20px;
+    right: 12px;
+}
+
+.form-forgot {
+    border-bottom: none !important;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.form-forgot .input-field.col.s12 {
+    margin-top: 0;
+    padding: 0px !important;
+}
+
+.form-forgot .input-field label {
+     left: 0;
+
+ }
+
+a#btn-login:hover {
+    color: white !important;
+}
+
+input.btn.btn-forgot {
+    color: white !important;
+    width: 100%;
+    margin-top: 5px;
+    height: 45px;
+    font-size: 1.3rem;
+    text-transform: initial;
+}
+
+#login-content #modal1 h5 {
+    position: absolute;
+    left: 30px;
+    top: 69px;
+    font-size: 1rem;
+}
+
+#loginImage {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+a#cancel-btn:hover {
+    color: #e3e3e3;
+    background-color: #e0e0e0;
+}
+
+a#cancel-btn {
+    width: 100%;
+    margin: auto;
+    float: none;
+    text-align: center;
+}
